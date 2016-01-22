@@ -6,7 +6,7 @@ import {Http, Headers} from 'angular2/http';
     template: `
         <h1>Angular 2 Boilerplate</h1>
         <p>Hello World!</p>
-    `,
+    `
 })
 export class AppComponent {
 }
