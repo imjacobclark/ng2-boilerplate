@@ -1,5 +1,5 @@
 # ng2-boilerplate
-A simple boilerplate for TypeScript Angular 2 apps based on the [Angular 2 quick start](https://angular.io/docs/js/latest/quickstart.html).
+A simple development boilerplate for TypeScript Angular 2 apps based on the [Angular 2 quick start](https://angular.io/docs/js/latest/quickstart.html).
 
 Features:
 
